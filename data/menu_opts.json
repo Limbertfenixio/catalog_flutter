@@ -1,0 +1,116 @@
+{
+    "nombreApp": "Componentes",
+    "rutas": [
+        {
+            "ruta": "/alert",
+            "icon": "add_alert",
+            "texto": "Alertas"
+        },
+        {
+            "ruta": "/animations",
+            "icon": "animation",
+            "texto": "Animations"
+        },
+        {
+            "ruta": "/app-bar",
+            "icon": "content_paste_rounded",
+            "texto": "AppBar"
+        },
+        {
+            "ruta": "/async",
+            "icon": "timer",
+            "texto": "Async Widgets"
+        },
+        {
+            "ruta": "/avatar",
+            "icon": "accessibility",
+            "texto": "Avatars"
+        },
+        
+        {
+            "ruta": "/bottom-sheet",
+            "icon": "horizontal_split",
+            "texto": "Bottom Sheet"
+        },
+        {
+            "ruta": "/buttons",
+            "icon": "smart_button_sharp",
+            "texto": "Buttons"
+        },
+        {
+            "ruta": "/card",
+            "icon": "folder_open",
+            "texto": "Cards - Tarjetas"
+        },
+        {
+            "ruta": "/clippers",
+            "icon": "format_shapes",
+            "texto": "Clippers"
+        },
+        {
+            "ruta": "/information",
+            "icon": "display_settings",
+            "texto": "Display Information"
+        },
+        {
+            "ruta": "/drawer-menu",
+            "icon": "menu",
+            "texto": "Drawer Menu"
+        },
+        {
+            "ruta": "/forms",
+            "icon": "dynamic_form",
+            "texto": "Forms"
+        }, 
+        {
+            "ruta": "/gestures",
+            "icon": "gesture",
+            "texto": "Gestures"
+        },    
+         {
+            "ruta": "/images",
+            "icon": "image",
+            "texto": "Images"
+        }, 
+        {
+            "ruta": "/layouts",
+            "icon": "ad_units_outlined",
+            "texto": "Layouts Widgets"
+        },
+        {
+            "ruta": "/layouts-scrolling",
+            "icon": "ad_units",
+            "texto": "Layouts Scrolling Widgets"
+        },
+        {
+            "ruta": "/lists",
+            "icon": "list",
+            "texto": "Lists"
+        },
+        {
+            "ruta": "/page-view",
+            "icon": "view_array",
+            "texto": "PageView"
+        },
+        {
+            "ruta": "/responsive",
+            "icon": "perm_data_setting_outlined",
+            "texto": "Responsive Design"
+        },
+        {
+            "ruta": "/tables",
+            "icon": "table_chart_rounded",
+            "texto": "Tables"
+        },
+        {
+            "ruta": "/tabs-home",
+            "icon": "tab",
+            "texto": "Tabs"
+        },
+        {
+            "ruta": "/text",
+            "icon": "text_fields",
+            "texto": "Text"
+        }
+    ]
+}
